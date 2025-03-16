@@ -15,7 +15,6 @@ def input_math():
                 print("Wrong! Try again.")
     except:
         pass 
-
 def opEn_vIdeo():
     webbrowser.open(X1)
     return 0 
